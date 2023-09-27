@@ -16,6 +16,15 @@ export default function Home() {
         vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
         fames ac ante ipsum primis in faucibus.
       </p>
+      <h2>Contact Me</h2>
+      <p>
+        <ul>
+          <li>
+            Email: Aidancmorrow1@gmail.com<br></br>
+            Github: Aidancm1
+          </li>
+        </ul>
+      </p>
     </div>
   );
 }
