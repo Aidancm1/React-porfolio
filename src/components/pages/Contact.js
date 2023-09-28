@@ -17,6 +17,14 @@ export default function Contact() {
         conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
         rhoncus. Etiam vel condimentum magna, quis tempor nulla.
       </p>
+      <p>
+        <ul>
+          <li>
+            Email: Aidancmorrow1@gmail.com<br></br>
+            Github: Aidancm1
+          </li>
+        </ul>
+      </p>
     </div>
   );
 }
